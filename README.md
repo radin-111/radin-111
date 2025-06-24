@@ -1,6 +1,8 @@
+![I am a Web Developer](https://i.ibb.co/JR2wS9R4/bec18725-5c27-4d78-a40f-bb19b95c0e7d.jpg)
+
 ### Hi there 👋, I am Sheikh Radin
 #### I am a Web Developer
-![I am a Web Developer](https://i.ibb.co/JR2wS9R4/bec18725-5c27-4d78-a40f-bb19b95c0e7d.jpg)
+
 
 🌟 I’m a MERN stack web developer passionate about learning new technologies and building modern web applications.
 
