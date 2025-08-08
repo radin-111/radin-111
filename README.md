@@ -28,7 +28,7 @@ Skills: REACT / JS / HTML / CSS / EXPRESS JS / MONGODB / FIREBASE / JWT TOKENS /
 - 📫 How to reach me: Search my name on google.com .You will find my fiverr profile and also upwork profile 
 
 
-[<img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:10px;">](https://linkedin.com/in/sheikh-radin-652696379)
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:10px;">](https://linkedin.com/in/sheikh-radin)
 [<img src="https://skillicons.dev/icons?i=twitter" height="40" style="margin-right:10px;">](https://x.com/Sheikh_Radin)
 [<img src="https://skillicons.dev/icons?i=facebook" height="40">](https://www.facebook.com/profile.php?id=61554372099239)
 
