@@ -36,7 +36,9 @@ Skills: REACT / JS / HTML / CSS / EXPRESS JS / MONGODB / FIREBASE / JWT TOKENS /
 - 📫 How to reach me: Search my name on google.com .You will find my fiverr profile and also upwork profile 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/radin-111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=61554372099239)  
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:10px;">](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[<img src="https://skillicons.dev/icons?i=twitter" height="40" style="margin-right:10px;">](https://twitter.com/YOUR-TWITTER-HANDLE)
+[<img src="https://skillicons.dev/icons?i=facebook" height="40">](https://www.facebook.com/profile.php?id=61554372099239)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
