@@ -36,9 +36,17 @@ Skills: REACT / JS / HTML / CSS / EXPRESS JS / MONGODB / FIREBASE / JWT TOKENS /
 - 📫 How to reach me: Search my name on google.com .You will find my fiverr profile and also upwork profile 
 
 
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="40" style="margin-right:10px;">](https://linkedin.com/in/sheikh-radin-652696379)
-[<img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" height="40" style="margin-right:10px;">](https://x.com/Sheikh_Radin)
-[<img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="40">](https://www.facebook.com/profile.php?id=61554372099239)
+<p align="center">
+  <a href="https://linkedin.com/in/sheikh-radin-652696379" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.png" alt="LinkedIn" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://x.com/Sheikh_Radin" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.png" alt="Twitter" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61554372099239" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.png" alt="Facebook" height="40" />
+  </a>
+</p>
 
 
 
