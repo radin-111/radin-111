@@ -6,27 +6,19 @@
 
 🌟 I’m a MERN stack web developer passionate about learning new technologies and building modern web applications.
 
-💻 Tech I work with:
+💻 **Tech I work with:**
 
-JavaScript ⚡
+- JavaScript ⚡
+- React.js ⚛️
+- Express.js 🚀
+- JWT authentication 🔒
+- Firebase authentication 🔑
 
-React.js ⚛️
+🛠 **What I’m currently working on:**
 
-Express.js 🚀
+- Currently, I am exploring Next.js
+- I am working on a tourism site
 
-JWT authentication 🔒
-
-Firebase authentication 🔑
-
-🛠 Projects I’ve built:
-
-🍽️ Restaurant management system
-
-🌱 Plant care tracker
-
-📦 Courier management platform
-
-🌐 Other custom web applications
 
 
 
