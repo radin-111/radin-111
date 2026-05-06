@@ -1,32 +1,74 @@
-![I am a Web Developer](https://i.ibb.co.com/nq1hYfbd/image-3.jpg)
+# 👨‍💻 Sheikh Radin
 
-### Hi there 👋, I am Sheikh Radin
-#### I am a Web Developer
+### 🚀 Full Stack Engineer
 
+![Banner](https://i.ibb.co.com/nq1hYfbd/image-3.jpg)
 
-🌟 I’m a MERN stack web developer passionate about learning new technologies and building modern web applications.
+---
 
-💻 **Tech I work with:**
+## 👋 About Me
 
-- JavaScript ⚡
-- React.js ⚛️
-- Express.js 🚀
-- JWT authentication 🔒
-- Firebase authentication 🔑
+I am a **MERN Stack Web Developer** focused on building **modern, scalable, and user-friendly web applications**.  
+Currently enhancing my expertise in **Next.js**, backend architecture, and performance optimization.
 
-🛠 **What I’m currently working on:**
+---
 
-- Currently, I am exploring Next.js
-- I am working on a tourism site
+## 🧊 Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,html,css,postgresql,docker" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff22,100:ffffff11&height=180&section=header&text=Frontend%20%7C%20Backend%20%7C%20DevOps&fontColor=ffffff&fontSize=20&animation=fadeIn" />
+</p>
 
+---
 
-Skills: REACT / JS / HTML / CSS / EXPRESS JS / MONGODB / FIREBASE / JWT TOKENS / TAILWIND CSS
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on web development  
-- 📫 How to reach me: Search my name on google.com .You will find my fiverr profile and also upwork profile 
+### 🌐 Frontend
 
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- HTML5 & CSS3
+- Tailwind CSS
+
+### ⚙️ Backend
+
+- Node.js
+- Express.js
+- RESTful APIs
+
+### 🗄 Database
+
+- MongoDB
+- PostgreSQL
+- Prisma ORM
+
+### 🔐 Authentication
+
+- Firebase Authentication
+- JWT Authentication
+
+### 🛠 Tools & Others
+
+- Docker
+- CI/CD Basics
+- Git & GitHub
+- C (for problem solving)
+
+---
+
+## 🛠 Current Focus
+
+- 🚀 Building scalable web applications with **Next.js**
+- 🧠 Practicing **Data Structures & Algorithms (C)**
+- ⚡ Improving problem-solving and system design skills
+- 🌱 Exploring **Golang**
+
+---
 
 [<img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:10px;">](https://linkedin.com/in/sheikh-radin)
 [<img src="https://skillicons.dev/icons?i=twitter" height="40" style="margin-right:10px;">](https://x.com/Sheikh_Radin)
@@ -38,11 +80,8 @@ Skills: REACT / JS / HTML / CSS / EXPRESS JS / MONGODB / FIREBASE / JWT TOKENS /
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=radin-111)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radin-111)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=radin-111&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/radin-111/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/radin-111)  
 
