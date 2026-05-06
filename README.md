@@ -8,10 +8,13 @@
 
 ## 👋 About Me
 
-I am a **MERN Stack Web Developer** focused on building **modern, scalable, and user-friendly web applications**.  
-Currently enhancing my expertise in **Next.js**, backend architecture, and performance optimization.
+I am a **Full Stack Engineer** focused on building **modern, scalable, and user-friendly web applications**.  
+Currently enhancing my expertise in **problem-solving and system design**.
+Building scalable web applications with **Next.js**,**Express.js**,**PostgreSQL**,
+**MongoDB**,**Prisma**,**Golang**, and **TypeScript**.
 
 ---
+
 
 ## 🧊 Skills
 
