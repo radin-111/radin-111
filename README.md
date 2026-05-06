@@ -19,7 +19,7 @@ Building scalable web applications with **Next.js**,**Express.js**,**PostgreSQL*
 ## 🧊 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,html,css,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,html,css,postgresql,docker,typescript,golang,prisma,c,nginx" />
 </p>
 
 <p align="center">
